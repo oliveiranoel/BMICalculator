@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_dateneingabe">Please enter your dates here</string>
+    <string name="text_name">Name</string>
+    <string name="text_groesse">Height</string>
+    <string name="text_gewicht">Weight</string>
+    <string name="text_geschlecht">Gender</string>
+    <string name="text_maennlich">Male</string>
+    <string name="text_weiblich">Female</string>
+    <string name="text_calc">CALCULATE BMI</string>
+    <string name="text_BMI">Your BMI is:</string>
+    <string name="BMI"></string>
+    <string name="text_kg">in kg</string>
+    <string name="text_cm">in cm</string>
+    <string name="text_history">HISTORY</string>
+    <string name="text_delete">DELETE HISTORY</string>
+</resources>
